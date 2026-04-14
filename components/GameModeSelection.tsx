@@ -25,7 +25,7 @@ const GameModeSelection: React.FC<GameModeSelectionProps> = ({
         <div className="group relative">
           <div className="absolute inset-0 bg-gradient-to-r from-cyan-500/20 to-purple-500/20 rounded-full blur-lg opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
           <div className="relative px-4 py-2 rounded-full bg-gradient-to-r from-slate-800/80 to-slate-900/80 border border-purple-500/30 backdrop-blur-md shadow-lg hover:border-purple-400/50 transition-all duration-300">
-            <span className="text-xs text-white/60 font-mono">by <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-purple-400 font-bold">jack</span></span>
+            <span className="text-xs text-white/60 font-mono">by <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-purple-400 font-bold">Austin</span></span>
           </div>
         </div>
       </div>
